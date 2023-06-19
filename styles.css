@@ -541,7 +541,7 @@ nav ul li {
     width: 100%;
     height: 50vh;
     background: #2c3e50;
-    top: 80px;
+    top: 60px;
     left: -100%;
     text-align: center;
     transition: all 0.5s;
@@ -549,7 +549,7 @@ nav ul li {
   nav ul li {
     display: block;
     margin: 40px 0;
-    line-height: 10px;
+    line-height: 2px;
   }
   /* nav ul li .list {
     font-size: 20px;
