@@ -1,0 +1,2 @@
+netlify = https://dickymarcellino-lp.netlify.app/
+github = https://github.com/Dmarcellakbar/tubes_landingpage
