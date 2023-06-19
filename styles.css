@@ -24,7 +24,6 @@ nav {
 }
 label.logo {
   color: white;
-  font-size: 35px;
   line-height: 80px;
   padding: 0 50px;
   font-weight: bold;
@@ -532,6 +531,10 @@ nav ul li {
   }
 }
 @media (max-width: 900px) {
+  label.logo {
+    color: white;
+    font-size: 20px;
+  }
   /* Navbar */
   .checkbtn {
     display: block;
